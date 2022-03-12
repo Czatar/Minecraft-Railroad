@@ -1,3 +1,6 @@
+# Makefile designed for a Unix-like OS
+# Given "coors.txt", the "make" command is enough to output into "result.txt"
+
 CXX = g++
 CXXFLAGS = -Wall -std=c++17
 OBJS = main.o

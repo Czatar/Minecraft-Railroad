@@ -1,0 +1,40 @@
+From:         To:           Cost: 
+------------------------------------------
+Shipwreck     House 1       384
+180 / 790     409 / 635     
+
+House 1       Curvy River   284
+409 / 635     290 / 470     
+
+Curvy River   South Coast   236
+290 / 470     114 / 410     
+
+South Coast   House 2       240
+114 / 410     114 / 170     
+
+House 2       Village       292
+114 / 170     215 / -21     
+
+House 2       Tower         259
+114 / 170     -85 / 230     
+
+Tower         Beacon        205
+-85 / 230     -70 / 40      
+
+Beacon        House 3       100
+-70 / 40      -80 / -50     
+
+House 3       Main Hub      190
+-80 / -50     -260 / -40    
+
+Main Hub      Treehouse     130
+-260 / -40    -240 / -150   
+
+Treehouse     Giant Cave    725
+-240 / -150   -845 / -270   
+
+Giant Cave    West Coast    85
+-845 / -270   -930 / -270   
+
+------------------------------------------
+Total Cost: 3130
