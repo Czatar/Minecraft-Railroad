@@ -1,0 +1,13 @@
+Shipwreck,      180, 790
+House 1,        409, 635
+Curvy River,    290, 470
+South Coast,    114, 410
+House 2,        114, 170
+Village,        215, -21
+Tower,          -85, 230
+Beacon,         -70, 40
+House 3,        -80, -50
+Main Hub,       -260, -40
+Treehouse,      -240, -150
+Giant Cave,     -845, -270
+West Coast,     -930, -270
